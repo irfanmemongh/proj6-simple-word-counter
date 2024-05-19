@@ -1,6 +1,6 @@
 {
   "name": "proj6-simple-word-counter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is Simple Word Counter Project",
   "main": "index.js",
   "type": "module",
